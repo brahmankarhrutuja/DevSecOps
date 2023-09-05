@@ -47,6 +47,9 @@ Our DevSecOps pipeline automates security checks and testing throughout the deve
 
 In the event of a security incident or breach, we follow a well-defined incident response plan to mitigate the impact and take appropriate action.
 
+## Acknowledgement
+I would like to thank [Sohail](https://github.com/sohail019)
+
 ## Contributing
 
 We welcome contributions and input from our team members to further enhance our DevSecOps practices. 
