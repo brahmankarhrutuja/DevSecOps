@@ -56,5 +56,5 @@ We welcome contributions and input from our team members to further enhance our 
 
 ## License
 
-This project is licensed under the LICENSE.md. You are encouraged to use and adapt our security practices to suit your own projects.
+This project is licensed under the [License](LICENSE.md). You are encouraged to use and adapt our security practices to suit your own projects.
 
