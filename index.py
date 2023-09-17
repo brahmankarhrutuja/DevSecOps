@@ -3,7 +3,6 @@ app = Flask(__name__)
 @app.route('/',methods=['GET'])
 def register():
     return render_template('register.html')
-
 @app.route('/success',methods=['GET','POST'])
 def success():
     if request.method=='POST':
