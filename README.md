@@ -1,4 +1,4 @@
-# DevSecOps Repository
+## DevSecOps Repository
 
 Welcome to the DevSecOps repository! This repository is dedicated to the integration of security practices into our development and operations processes to ensure the security and reliability of our applications and infrastructure.
 
